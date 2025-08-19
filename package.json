@@ -15,5 +15,8 @@
     "url": "https://github.com/zikazama/testing/issues"
   },
   "homepage": "https://github.com/zikazama/testing#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "tailwind": "^4.0.0"
+  }
 }
